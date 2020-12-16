@@ -13,3 +13,7 @@ I'm actively working on my dissertation and mentoring undergraduate research. My
 - Investigating the cultural evolution of bird song through dispersion, disruption, and selection.
 - Connecting ecological niche models to mechanistic models of populations.
 I'm also currently mentoring one undergraduate student who is creating a mathematical model of the winter-tick epizootic of moose. 
+
+## Computing Proficiencies
+- Advanced knowledge: Python, MATLAB, NetLogo, Git, and LaTeX.
+- Basic knowledge: Mathematica, R, and C++.
