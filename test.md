@@ -1,5 +1,8 @@
+---
 layout: page
+published: true
 title: "Here is a great title!"
-permalink: /mytest/
+order: 1
+---
 
 # boom! 
