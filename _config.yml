@@ -2,8 +2,3 @@ theme: jekyll-theme-minimal
 
 github: is\_project\_page:false
 title: <mytitle>
-
-{% assign sorted_pages = site.pages | sort:"order" %}
-{% for node in sorted_pages %}
-  <li><a href="{{node.url}}">{{node.title}}</a></li>
-{% endfor %}
