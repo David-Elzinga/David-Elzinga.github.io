@@ -3,12 +3,7 @@ theme: jekyll-theme-minimal
 github: is\_project\_page:false
 title: <mytitle>
 
-include:
-  - _pages
-  
-defaults: 
-  - scope:
-      path: "_pages"
-      type: "pages"
-    values:
-      permalink: /:basename/test # make URL of pages in the folder _pages as on the root.
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for node in sorted_pages %}
+  <li><a href="{{node.url}}">{{node.title}}</a></li>
+{% endfor %}
