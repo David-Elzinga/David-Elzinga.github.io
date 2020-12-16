@@ -1,4 +1,10 @@
 theme: jekyll-theme-minimal
 
 github: is\_project\_page:false
-title: <mytitle>
+
+title: my title! 
+author: David Elzinga
+email: delzinga@vols.utk.edu
+twitter_username: ElzingaDavid
+github_username: David-Elzinga
+
