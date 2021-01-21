@@ -4,8 +4,8 @@ published: true
 title: "About me"
 ---
 
-## CV 
-My updated, full-length CV is made available here: [Elzinga_CV.pdf](https://drive.google.com/file/d/12yKEt54_Kd5CGv5tDpJE2tDoz9VQ_Tu5/view?usp=sharing)
+## CV & Resume
+My updated, full-length CV is made available here: [Elzinga_CV.pdf](https://drive.google.com/file/d/12yKEt54_Kd5CGv5tDpJE2tDoz9VQ_Tu5/view?usp=sharing)<br />
 My updated, one-page Resume is made available here: [Elzinga_Resume.pdf](https://drive.google.com/file/d/1APUjT5JmtECtftd0Bmi6VSy45U2dlw9e/view?usp=sharing)
 
 ## Background
